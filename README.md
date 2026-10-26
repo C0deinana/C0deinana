@@ -1,9 +1,8 @@
 <body>
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/2c/17/c3/2c17c35051314624349f4fa57794a91f.gif" width="100%" />
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" alt="cat coding gif" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat coding gif" />
 
 # 🎀 hi, i'm nana ♡
 
